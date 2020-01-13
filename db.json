@@ -1,15 +1,60 @@
 {
   "accounts": [
-    { "id": 1, "date": "12/22/2019", "type": "monthly statement", "amount": 1002.38 },
-    { "id": 2, "date": "11/20/2019", "type": "monthly statement", "amount": 2002.38 },
-	{ "id": 3, "date": "10/20/2019", "type": "monthly statement", "amount": 3702.38 },
-	{ "id": 4, "date": "9/20/2019", "type": "monthly statement", "amount": 2402.38 },
-	{ "id": 5, "date": "8/20/2019", "type": "monthly statement", "amount": 27502.38 },
-	{ "id": 6, "date": "7/20/2019", "type": "monthly statement", "amount": 2372.38 },
-	{ "id": 7, "date": "6/20/2019", "type": "monthly statement", "amount": 4552.38 },
-	{ "id": 8, "date": "5/20/2019", "type": "monthly statement", "amount": 5202.38 },
-	{ "id": 9, "date": "4/20/2019", "type": "monthly statement", "amount": 1802.38 },
-  ],
+   {
+      "id":1,
+      "date":"12/22/2019",
+      "type":"monthly statement",
+      "amount":1002.38
+   },
+   {
+      "id":2,
+      "date":"11/20/2019",
+      "type":"monthly statement",
+      "amount":2002.38
+   },
+   {
+      "id":3,
+      "date":"10/20/2019",
+      "type":"monthly statement",
+      "amount":3702.38
+   },
+   {
+      "id":4,
+      "date":"9/20/2019",
+      "type":"monthly statement",
+      "amount":2402.38
+   },
+   {
+      "id":5,
+      "date":"8/20/2019",
+      "type":"monthly statement",
+      "amount":27502.38
+   },
+   {
+      "id":6,
+      "date":"7/20/2019",
+      "type":"monthly statement",
+      "amount":2372.38
+   },
+   {
+      "id":7,
+      "date":"6/20/2019",
+      "type":"monthly statement",
+      "amount":4552.38
+   },
+   {
+      "id":8,
+      "date":"5/20/2019",
+      "type":"monthly statement",
+      "amount":5202.38
+   },
+   {
+      "id":9,
+      "date":"4/20/2019",
+      "type":"monthly statement",
+      "amount":1802.38
+   }
+],
   "profile": {
     "name": "typicode"
   }
